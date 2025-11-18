@@ -1,0 +1,4 @@
+*.o
+hash_program
+*.out
+test_*

@@ -1,0 +1,6 @@
+*.o
+encryptor
+*.iv
+*.enc
+*.dec
+test_*
